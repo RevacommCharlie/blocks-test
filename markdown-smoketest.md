@@ -36,10 +36,10 @@ Words can have *emphasis*, **strong emphasis**, or ~~strikethrough~~.
 
 ### Images
 Galvanize Logo
-![image](folder-DO-NOT-DELETE/galvanize-logo.png)
+![image](images/galvanize-logo.png)
 
 Animated GIF test
-![image](folder-DO-NOT-DELETE/register_klass.gif)
+![image](images/register_klass.gif)
 
 ### Video
 <iframe src="https://player.vimeo.com/video/214871308" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -95,7 +95,7 @@ Quote break.
 
 Text
 
-![image](folder-DO-NOT-DELETE/galvanize-logo.png)
+![image](images/galvanize-logo.png)
 
 [relative link](target.md)
 
