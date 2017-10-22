@@ -26,13 +26,11 @@ Words can have *emphasis*, **strong emphasis**, or ~~strikethrough~~.
 * [relative link](target.md)
 * [relative link, nested](folder/target.md)
 * [absolute link](https://github.com/Galvanize-IT/learn-sandbox/blob/master/target.md)
-* [folder link](folder-DO-NOT-DELETE/)
 * [Galvanize.com external link](http://www.galvanize.com)
 * [Github exercise repo](https://github.com/gSchool/galvanize-eats)
 * [Github exercise repo, link to README/md](https://github.com/gSchool/galvanize-eats/blob/master/README.md)
-* [js file](sample.js)
 * [Google.com external link](http://google.com)
-* [http://localhost:3002 internal link with host](http://localhost:3002)
+* [http://localhost:3000 internal link with host](http://localhost:3000)
 
 ### Images
 Galvanize Logo
