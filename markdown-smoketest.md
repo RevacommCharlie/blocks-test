@@ -24,7 +24,7 @@ Words can have *emphasis*, **strong emphasis**, or ~~strikethrough~~.
 
 ### Links
 * [relative link](target.md)
-* [relative link, nested](folder-DO-NOT-DELETE/target.md)
+* [relative link, nested](folder/target.md)
 * [absolute link](https://github.com/Galvanize-IT/learn-sandbox/blob/master/target.md)
 * [folder link](folder-DO-NOT-DELETE/)
 * [Galvanize.com external link](http://www.galvanize.com)
