@@ -23,7 +23,7 @@ Words can have *emphasis*, **strong emphasis**, or ~~strikethrough~~.
 * ul three
 
 ### Links
-* [relative link](trget.md)
+* [relative link](target.md)
 * [relative link, nested](folder/target.md)
 * [absolute link](https://github.com/Galvanize-IT/learn-sandbox/blob/master/target.md)
 * [Galvanize.com external link](http://www.galvanize.com)
