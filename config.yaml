@@ -1,4 +1,6 @@
 ---
 Standards:
-  - Foo
-  - Bar
+  -
+    Title: Foo
+  -
+    Uid: Bar
