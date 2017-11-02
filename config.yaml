@@ -2,8 +2,13 @@
 Standards:
   -
     Title: Foo
+    SuccessCriteria:
+      - Foo
   -
     Uid: Bar
+    SuccessCriteria:
+      - Foo
+      - Bar
     ContentFiles:
       -
         Type: Checkpoint
