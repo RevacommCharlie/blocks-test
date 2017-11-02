@@ -9,6 +9,8 @@ Standards:
     ContentFiles:
       -
         Type: Lesson
+      -
+        Type: Checkpoint
   -
     Title: Bar
     Description: This is the description
@@ -17,5 +19,7 @@ Standards:
       - Foo
       - Bar
     ContentFiles:
+      -
+        Type: Checkpoint
       -
         Type: Checkpoint
