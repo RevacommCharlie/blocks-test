@@ -12,7 +12,7 @@ Standards:
         Path: /foo/bar.md
       -
         Type: Checkpoint
-        Path: /foo/bar.md
+        Path: /foo/baz.md
   -
     Title: Bar
     Description: This is the description
@@ -23,3 +23,4 @@ Standards:
     ContentFiles:
       -
         Type: Checkpoint
+        Path: /foo/buzz.md
