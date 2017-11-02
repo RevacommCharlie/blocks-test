@@ -9,8 +9,10 @@ Standards:
     ContentFiles:
       -
         Type: Lesson
+        Path: /foo/bar.md
       -
         Type: Checkpoint
+        Path: /foo/bar.md
   -
     Title: Bar
     Description: This is the description
