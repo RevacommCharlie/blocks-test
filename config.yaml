@@ -3,7 +3,7 @@ Standards:
   -
     Title: Foo
     Description: This is the description
-    Uid: abc
+    UID: abc
     SuccessCriteria:
       - Foo
     ContentFiles:
@@ -14,7 +14,7 @@ Standards:
   -
     Title: Bar
     Description: This is the description
-    Uid: 123
+    UID: 123
     SuccessCriteria:
       - Foo
       - Bar
