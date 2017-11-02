@@ -16,7 +16,7 @@ Standards:
   -
     Title: Bar
     Description: This is the description
-    UID: abc
+    UID: 123
     SuccessCriteria:
       - Foo
       - Bar
