@@ -4,3 +4,6 @@ Standards:
     Title: Foo
   -
     Uid: Bar
+    ContentFiles:
+      -
+        Type: Checkpoint
