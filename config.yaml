@@ -2,10 +2,17 @@
 Standards:
   -
     Title: Foo
+    Description: This is the description
+    Uid: abc
     SuccessCriteria:
       - Foo
+    ContentFiles:
+      -
+        Type: Lesson
   -
-    Uid: Bar
+    Title: Bar
+    Description: This is the description
+    Uid: 123
     SuccessCriteria:
       - Foo
       - Bar
