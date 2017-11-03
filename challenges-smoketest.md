@@ -36,7 +36,7 @@ Enter your answer here
 
 #### !hint
 
-```
+```js
 function tryHarder() => { return 'do more code!' }
 ```
 
