@@ -9,7 +9,7 @@ Standards:
     ContentFiles:
       -
         Type: Lesson
-        Path: /foo/bar.md
+        Path: /foo/ba2r.md
       -
         Type: Checkpoint
         Path: /foo/baz.md
