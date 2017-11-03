@@ -36,7 +36,9 @@ Enter your answer here
 
 #### !hint
 
-try harder
+```
+function tryHarder() => { return 'do more code!' }
+```
 
 #### !end-hint
 
