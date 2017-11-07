@@ -9,10 +9,10 @@ Standards:
     ContentFiles:
       -
         Type: Lesson
-        Path: /foo/bar.md
+        Path: /java-test.md
       -
         Type: Checkpoint
-        Path: /foo/baz.md
+        Path: /challenges-smoketest.md
   -
     Title: Bar
     Description: This is the description
@@ -23,4 +23,4 @@ Standards:
     ContentFiles:
       -
         Type: Checkpoint
-        Path: /foo/buzz.md
+        Path: /challenges-smoketest.md
