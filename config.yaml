@@ -8,8 +8,15 @@ Standards:
       - Foo
     ContentFiles:
       -
-        Type: Lesson
-        Path: /java-test.md
-      -
         Type: Checkpoint
         Path: /challenges-smoketest.md
+  -
+    Title: Bar
+    Description: This is the description
+    UID: 123
+    SuccessCriteria:
+      - Bar
+    ContentFiles:
+      -
+        Type: Checkpoint
+        Path: /java-test.md
