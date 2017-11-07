@@ -10,9 +10,6 @@ Standards:
       -
         Type: Lesson
         Path: /java-test.md
-      -
-        Type: Checkpoint
-        Path: /challenges-smoketest.md
   -
     Title: Bar
     Description: This is the description
