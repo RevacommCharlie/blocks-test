@@ -19,4 +19,4 @@ Standards:
     ContentFiles:
       -
         Type: Checkpoint
-        Path: /java-test.md
+        Path: /java-test.java
