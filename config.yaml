@@ -8,6 +8,12 @@ Standards:
       - Foo
     ContentFiles:
       -
+        Type: Lesson
+        Path: /markdown-smoketest.md
+      -
+        Type: Lesson
+        Path: /target.md
+      -
         Type: Checkpoint
         Path: /challenges-smoketest.md
   -
@@ -18,5 +24,11 @@ Standards:
       - Bar
     ContentFiles:
       -
+        Type: Lesson
+        Path: /foo/bar.md
+      -
+        Type: Lesson
+        Path: /foo/baz.md
+      -
         Type: Checkpoint
-        Path: /java-test.java
+        Path: /foo/buzz.md
