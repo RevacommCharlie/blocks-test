@@ -2,7 +2,7 @@
 Standards:
   -
     Title: Foo
-    Description: This is the description
+    Description: This is the description. It's a pretty short description and shouldn't wrap very much or at all even.
     UID: abc
     SuccessCriteria:
       - Foo
@@ -11,14 +11,11 @@ Standards:
         Type: Lesson
         Path: /markdown-smoketest.md
       -
-        Type: Lesson
-        Path: /target.md
-      -
         Type: Checkpoint
         Path: /challenges-smoketest.md
   -
     Title: Bar
-    Description: This is the description
+    Description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
     UID: 123
     SuccessCriteria:
       - Bar
@@ -32,3 +29,25 @@ Standards:
       -
         Type: Checkpoint
         Path: /foo/buzz.md
+  -
+    Title: Another Standard
+    Description: I've got a description for you. Wait till you hear the description. It's a really good one. I promise I'm not stalling.
+    UID: derp
+    SuccessCriteria:
+      - Do some stuff
+      - Learn some stuff
+      - Be a good student
+    ContentFiles:
+      -
+        Type: Lesson
+        Path: /folder/deeply-nested/test.md
+      -
+        Type: Lesson
+        Path: /folder/sibling.md
+      -
+        Type: Lesson
+        Path: /target.md
+      -
+        Type: Checkpoint
+        Path: /java-test.md
+   
