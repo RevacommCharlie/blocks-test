@@ -13,7 +13,7 @@ Standards:
       -
         Type: Checkpoint
         Path: /challenges-smoketest.md
-        UID: 1234
+        UID: challenges-smoketest
   -
     Title: Bar
     Description: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
@@ -30,7 +30,7 @@ Standards:
       -
         Type: Checkpoint
         Path: /foo/buzz.md
-        UID: 1234
+        UID: foo/buzz
   -
     Title: Another Standard
     Description: I've got a description for you. Wait till you hear the description. It's a really good one. I promise I'm not stalling.
@@ -52,5 +52,5 @@ Standards:
       -
         Type: Checkpoint
         Path: /java-test.md
-        UID: 5678
+        UID: java-test
    
