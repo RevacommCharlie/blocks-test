@@ -12,7 +12,7 @@ Standards:
         Path: /markdown-smoketest.md
       -
         Type: Checkpoint
-        Path: /challenges-smoketest.md
+        Path: /challenges-smoketest-1.md
         UID: challenges-smoketest
   -
     Title: Bar
