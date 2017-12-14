@@ -11,7 +11,7 @@ Standards:
         Type: Lesson
         Path: /markdown-smoketest.md
       - 
-        Type: Leasson
+        Type: Lesson
         Path: /multi-line-multi-choice.md
       -
         Type: Checkpoint
