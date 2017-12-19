@@ -10,6 +10,9 @@ Standards:
       -
         Type: Lesson
         Path: /markdown-smoketest.md
+      - 
+        Type: Lesson
+        Path: /multi-line-multi-choice.md
       -
         Type: Checkpoint
         Path: /challenges-smoketest.md
