@@ -84,17 +84,7 @@ which of these is the correct answer?
 ##### !end-options
 
 ##### !answer
-
-```python
-def filter_by_class(X, y, label):
-    '''
-    INPUT: 2 dimensional numpy array, numpy array, object
-    OUTPUT: 2 dimensional numpy array
-
-    Return the rows from X whose corresponding label from y is the given label.
-    '''
-    return X[y == label]
-```
+one line
 
 ##### !end-answer
 
