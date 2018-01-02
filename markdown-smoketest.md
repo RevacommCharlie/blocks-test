@@ -55,6 +55,17 @@ s = "Python syntax highlighting"
 print s
 ```
 
+```java
+// filename: Hello.java
+public class Hello {
+
+    public static void main(String [] args){
+        System.out.println("Hello, Java!");
+    }
+
+}
+```
+
 ```
 For data point in training set:
     calculate distance from data point to new_value
