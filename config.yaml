@@ -13,6 +13,9 @@ Standards:
       - 
         Type: Lesson
         Path: /multi-line-multi-choice.md
+      - 
+        Type: Lesson
+        Path: /java-test.md
       -
         Type: Checkpoint
         Path: /challenges-smoketest.md
