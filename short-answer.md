@@ -75,9 +75,6 @@ myArray[index]
 * id: justanotheridforsometesting
 * title: Custom Snippet
 * standard_uuids: W0018-V1
-* docker_image: gSchool/custom_snippet
-* docker_compose: false
-* inject_path: foo/bar.js
 
 ##### !question
 
