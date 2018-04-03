@@ -76,7 +76,7 @@ myArray[index]
 
 ##### !question
 
-Can you enter `{{article.publishedOn | date:'MM-DD-YYYY'}}` with different amounts of whitespace?
+Can you enter `{{article.publishedOn | date:'MM-DD-YYYY'}}` with different amounts of whitespace? `single tick`
 
 ##### !end-question
 
