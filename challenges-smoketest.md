@@ -129,6 +129,7 @@ An instructor will review and grade this. Good Luck!
 ### Question
 
 What are the 5 primitive datatypes in JavaScript?
+`single tick`
 
 ##### !end-question
 
@@ -174,6 +175,7 @@ and
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
 
 are not right.
+`single tick`
 
 ##### !end-explanation
 
@@ -298,6 +300,12 @@ Submit a GitHub URL
 Submit your github link
 
 ##### !end-placeholder
+
+#### !hint
+
+`single tick` test `another single tick`
+
+#### !end-hint
 
 ##### !explanation
 
