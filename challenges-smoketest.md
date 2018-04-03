@@ -46,6 +46,7 @@ function tryHarder() => { return 'do more code!' }
 #### !hint
 
 no really, try harder
+`single tick`
 
 #### !end-hint
 
