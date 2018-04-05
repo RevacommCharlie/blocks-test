@@ -1,3 +1,37 @@
+### !challenge
+
+* type: testable-project
+* id: de35ab20-9662-45f5-8a67-b32fb5befada
+* title: ASCII Grid
+* upstream: https://github.com/gSchool/java-language-checkpoint
+* validate_fork: true
+* standard_uuids: JAVA0104-V1
+
+##### !question
+
+### Instructions
+
+1. Fork and clone [this repository](https://github.com/gSchool/java-language-checkpoint).
+1. Write code to complete the checkpoint.
+1. Once you are satisfied with your solution, check your work:
+  - Run `./assess-project` (just `assess-project` on Windows) locally and make sure the tests pass.
+1. Commit and push your changes to _your_ fork.
+1. Submit the link to your fork below.
+
+Note: You are also provided with a `grid.sh` file to to run your Command Line program. To use it:
+  * Run `./gradlew build` to build your project and generate your `jar` files.
+  * Run `./grid.sh r c` where `r` and `c` are your input parameters for rows and columns, respectively.
+##### !end-question
+
+##### !placeholder
+Github URL (without .git): https://github.com/<your-username>/java-language-checkpoint
+##### !end-placeholder
+
+##### !explanation
+##### !end-explanation
+
+### !end-challenge
+
 # !challenge
 
 * type: short-answer
