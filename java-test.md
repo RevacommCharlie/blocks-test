@@ -1,6 +1,6 @@
 # Variables
 
-blahsssssssssssssssss
+blahssssssssssssssssss
 
 ### !challenge
 
