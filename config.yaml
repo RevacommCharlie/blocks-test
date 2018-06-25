@@ -21,7 +21,7 @@ Standards:
         Path: /java-test.md
       - 
         Type: Lesson
-        Path: /space cadets/test file.md
+        Path: /space-cadets/test-file.md
       -
         Type: Checkpoint
         Path: /challenges-smoketest.md
