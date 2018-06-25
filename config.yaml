@@ -15,7 +15,7 @@ Standards:
         Path: /multi-line-multi-choice.md
       - 
         Type: Lesson
-        Path: /short-answer.md
+        Path: /short answer.md
       - 
         Type: Lesson
         Path: /java-test.md
