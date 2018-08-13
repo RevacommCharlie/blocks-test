@@ -9,18 +9,23 @@ Standards:
     ContentFiles:
       -
         Type: Lesson
+        UID: 9603bc75-1fe2-4d69-9dc9-39f1ee1b70c7
         Path: /markdown-smoketest.md
-      - 
+      -
         Type: Lesson
+        UID: fba01ed1-b7a5-4cd1-b792-e86b163b3259
         Path: /multi-line-multi-choice.md
-      - 
+      -
         Type: Lesson
+        UID: e7804d1b-48d7-457c-a613-37ed14546ebb
         Path: /short answer.md
-      - 
+      -
         Type: Lesson
+        UID: eb584287-0a5a-42fd-8772-e2be68020956
         Path: /java-test.md
-      - 
+      -
         Type: Lesson
+        UID: 4cee0f2a-1060-4213-9e11-9f1693497769
         Path: /space-cadets/test-file.md
       -
         Type: Checkpoint
