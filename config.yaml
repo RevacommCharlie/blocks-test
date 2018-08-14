@@ -9,7 +9,6 @@ Standards:
     ContentFiles:
       -
         Type: Lesson
-        UID: 9603bc75-1fe2-4d69-9dc9-39f1ee1b70c7
         Path: /markdown-smoketest.md
       -
         Type: Lesson
