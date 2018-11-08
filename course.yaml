@@ -1,0 +1,17 @@
+---
+Course:
+  - Section: DSI Admissions Prep
+    Repos:
+      - URL: https://github.com/gSchool/ds-admissions-intro-learn
+      - URL: https://github.com/gSchool/ds-admissions-intro-ds-workflow
+      - URL: https://github.com/gSchool/ds-admissions-intro-python
+      - URL: https://github.com/gSchool/ds-admissions-strings-lists
+     
+  - Section: Advanced DSI Admissions Prep
+    Repos:
+     - URL: https://github.com/gSchool/ds-admissions-sql
+     - URL: https://github.com/gSchool/ds-admissions-python-tuples-dictionaries
+     - URL: https://github.com/gSchool/ds-admissions-python-functions
+     - URL: https://github.com/gSchool/ds-admissions-numpy
+     - URL: https://github.com/gSchool/ds-admissions-probability
+     - URL: https://github.com/gSchool/ds-admissions-final-unit
