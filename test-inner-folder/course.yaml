@@ -1,0 +1,10 @@
+---
+Course:
+  - Section: DSI Admissions Prep
+    Repos:
+      - URL: https://github.com/gSchool/dsi-intro-to-ds-stats
+      - URL: https://github.com/gSchool/ds-sql-block
+
+  - Section: Advanced DSI Admissions Prep
+    Repos:
+     - URL: https://github.com/gSchool/ds-python-quizzes-block
