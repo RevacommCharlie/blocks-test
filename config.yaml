@@ -1,33 +1,18 @@
 ---
 Standards:
   -
-    Title: Foo
+    Title: FooBar
     Description: This is the description. It's a pretty short description and shouldn't wrap very much or at all even.
-    UID: abc
+    UID: 884d038d-fca6-438e-94a7-ab381a3628c4
     SuccessCriteria:
       - Foo
+      - Bar
     ContentFiles:
       -
         Type: Lesson
-        Path: /markdown-smoketest.md
+        Path: /markdown.md
         UID: 5037b55e-efea-4277-82ac-37d6262203f8
       -
-        Type: Lesson
-        UID: fba01ed1-b7a5-4cd1-b792-e86b163b3259
-        Path: /multi-line-multi-choice.md
-      -
-        Type: Lesson
-        UID: e7804d1b-48d7-457c-a613-37ed14546ebb
-        Path: /short answer.md
-      -
-        Type: Lesson
-        UID: eb584287-0a5a-42fd-8772-e2be68020956
-        Path: /java-test.md
-      -
-        Type: Lesson
-        UID: 4cee0f2a-1060-4213-9e11-9f1693497769
-        Path: /space-cadets/test-file.md
-      -
         Type: Checkpoint
-        Path: /challenges-smoketest.md
+        Path: /challenges.md
         UID: 38005db5-da5c-495f-af9a-6dc7a8ce98aa
