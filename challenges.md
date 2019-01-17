@@ -64,3 +64,37 @@ myArray[index]
 ##### !end-explanation
 
 # !end-challenge
+
+### !challenge
+
+- type: multiple-choice
+- id: 89f59773-1c2f-448a-897c-ff7209807b3d
+- title: Some simple algorithms
+- standard_uuids: JAVA0010-V2
+
+##### !question
+
+Were you able to successfully complete the checkpoint?
+
+##### !end-question
+
+##### !options
+
+- Yes
+- No
+
+##### !end-options
+
+##### !answer
+
+Yes
+
+##### !end-answer
+
+##### !explanation
+
+Great!
+
+##### !end-explanation
+
+### !end-challenge
