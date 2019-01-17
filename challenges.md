@@ -67,10 +67,10 @@ myArray[index]
 
 ### !challenge
 
-- type: multiple-choice
-- id: 89f59773-1c2f-448a-897c-ff7209807b3d
-- title: Some simple algorithms
-- standard_uuids: JAVA0010-V2
+* type: multiple-choice
+* id: 89f59773-1c2f-448a-897c-ff7209807b3d
+* title: Some simple algorithms
+* standard_uuids: JAVA0010-V2
 
 ##### !question
 
@@ -80,8 +80,8 @@ Were you able to successfully complete the checkpoint?
 
 ##### !options
 
-- Yes
-- No
+* Yes
+* No
 
 ##### !end-options
 
