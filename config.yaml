@@ -10,9 +10,9 @@ Standards:
     ContentFiles:
       -
         Type: Lesson
-        Path: /markdown.md
+        Path: /simple-challenge.md
         UID: 5037b55e-efea-4277-82ac-37d6262203f8
       -
         Type: Checkpoint
-        Path: /err.md
+        Path: /simple-checkpoint.md
         UID: 38005db5-da5c-495f-af9a-6dc7a8ce98aa
