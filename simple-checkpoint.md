@@ -22,3 +22,60 @@ It is Right
 ##### !end-explanation
 
 # !end-challenge
+
+OH BUT THAT'S NOT ALL
+
+# !challenge
+
+* type: code-snippet
+* language: javascript
+* id: smoketest-challenge-12
+* title: return true
+* standard_uuids: W0018-V1
+
+##### !question
+
+Write a function that returns true.
+
+##### !end-question
+
+##### !placeholder
+
+```js
+function returnTrue() {
+// return true
+}
+```
+
+##### !end-placeholder
+
+##### !setup
+```js
+var expect = require('chai').expect;
+```
+##### !end-setup
+
+##### !tests
+
+```js
+describe('returnTrue', function() {
+
+    it("returns true", function() {
+      expect(returnTrue()).to.deep.eq(true)
+    })
+
+})
+```
+##### !end-tests
+
+#### !explanation
+
+I had to have this talk with you
+My happiness depends on you
+And whatever you decide to do
+Boolean
+
+#### !end-explanation
+
+# !end-challenge
+
