@@ -13,6 +13,10 @@ Standards:
         Path: /simple-challenge.md
         UID: 5037b55e-efea-4277-82ac-37d6262203f8
       -
+        Type: Lesson
+        Path: /markdown.md
+        UID: 5037b55e-efaa-42b7-82ac-37d6263203zz
+      -
         Type: Checkpoint
         Path: /simple-checkpoint.md
         Autoscore: true
