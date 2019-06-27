@@ -3,6 +3,7 @@
 * type: paragraph
 * id: 012101f3-53be-4a4d-8a71-3900ae9ad4cd
 * title: Simple Checkpoint Paragraph
+* points: 3
 
 ##### !question
 Describe the Correct Checkpoint
@@ -19,6 +20,7 @@ It is Correct
 * type: multiple-choice
 * id: 9d0716a9802e4f7daf7ace5fe9bc0e21
 * title: Simple Checkpoint Challenge
+* points: 2
 
 ##### !question
 Select the Right
@@ -48,6 +50,7 @@ OH BUT THAT'S NOT ALL
 * id: smoketest-challenge-12
 * title: return true
 * standard_uuids: W0018-V1
+* points: 4
 
 ##### !question
 
