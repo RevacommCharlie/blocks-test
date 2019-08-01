@@ -14,8 +14,12 @@ Standards:
         UID: 5037b55e-efea-4277-82ac-37d6262203f8
       -
         Type: Lesson
+        Path: /simple-localjs.md
+        UID: be126833-8232-4c24-8929-afab4f288266
+      -
+        Type: Lesson
         Path: /markdown.md
-        UID: 5037b55e-efaa-42b7-82ac-37d6263203zz
+        UID: efa1fda0-80e8-4ef9-a184-24777ee0e2de
       -
         Type: Resource
         Path: /simple-resource.md
