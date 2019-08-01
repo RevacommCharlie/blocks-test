@@ -1,3 +1,5 @@
+Helpful [resource](./simple-resource.md)
+
 # !challenge
 
 * type: paragraph

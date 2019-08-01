@@ -17,6 +17,10 @@ Standards:
         Path: /markdown.md
         UID: 5037b55e-efaa-42b7-82ac-37d6263203zz
       -
+        Type: Resource
+        Path: /simple-resource.md
+        UID: 6598b232-abb9-4acb-baaf-5b60797d9f0e
+      -
         Type: Checkpoint
         Path: /simple-checkpoint.md
         Autoscore: false
