@@ -1,4 +1,3 @@
 # blocks-test
 
-used for testing
-weird
+one more time
