@@ -7,6 +7,7 @@ Peter piper packed a pack of swishers and a lighter
 * id: 012101f3-53be-4a4d-8a71-3900ae9ad4cd
 * title: Simple Checkpoint Paragraph
 * points: 3
+* topics: ["Coding", "Conceptual", "Candy"]
 
 ##### !question
 Describe the Correct Checkpoint
@@ -24,6 +25,7 @@ It is Correct
 * id: 9d0716a9802e4f7daf7ace5fe9bc0e21
 * title: Simple Checkpoint Challenge
 * points: 2
+* topics: ["Coding", "Conceptual", "Candy"]
 
 ##### !question
 Select the Right
