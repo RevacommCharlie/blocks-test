@@ -23,11 +23,7 @@ Standards:
       -
         Type: Lesson
         Path: /nested/markdown.md
-        UID: de434f42-892c-4210-a80c-17998d2b9be2
-      -
-        Type: Lesson
-        Path: /learning-markdown.ipynb
-        UID: 7247619d-234c-4f37-ba55-2fad20a0f0c2       
+        UID: de434f42-892c-4210-a80c-17998d2b9be2       
       -
         Type: Resource
         Path: /simple-resource.md
