@@ -11,6 +11,7 @@ Standards:
       -
         Type: Lesson
         Path: /simple-challenge.md
+        UID: be126855-8232-4c24-8929-afab4f288266
       -
         Type: Lesson
         Path: /simple-localjs.md
