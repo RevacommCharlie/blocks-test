@@ -11,6 +11,9 @@ Helpful [resource](./simple-resource.md)
 Describe the Correct
 ##### !end-question
 
+##### !hints
+##### !end-hints
+
 ##### !explanation
 It is Correct
 ##### !end-explanation
