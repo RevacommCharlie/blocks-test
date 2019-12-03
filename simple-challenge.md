@@ -1,4 +1,4 @@
-cHelpful [resource](./simple-resource.md)
+celpful [resource](./simple-resource.md)
 * [linked resource](/simple-resource.md) with a leading '/'
 
 # !challenge
