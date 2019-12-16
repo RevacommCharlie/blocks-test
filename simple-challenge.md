@@ -1,4 +1,6 @@
 celpful [resource](./simple-resource.md)
+broken [thing](./simple-broken.md)
+broken [thing 2](./simple-broken.md)
 * [linked resource](/simple-resource.md) with a leading '/'
 
 # !challenge
