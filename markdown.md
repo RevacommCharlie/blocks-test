@@ -1,8 +1,16 @@
 # H1 Top-Level Heading
 
+![alt](./images/person-I-hate-most.jpg)
+
 ```python
 s = "Python syntax highlighting"
 print s
+```
+
+```javascript
+var myarr = [(arg) => { console.log(arg) }];
+myarr[0]("code-test-case");
+
 ```
 
 ### Tables
