@@ -10,7 +10,7 @@ Standards:
     ContentFiles:
       -
         Type: Lesson
-        Path: /Front End Capstone/exercises/code_reviews.md
+        Path: /Front-End-Capstone/exercises/code_reviews.md
         UID: c8f40dd8-353d-4074-886f-37fbf08d7059
       -
         Type: Checkpoint
