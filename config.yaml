@@ -10,24 +10,9 @@ Standards:
     ContentFiles:
       -
         Type: Lesson
-        Path: /simple-challenge.md
-        UID: be126855-8232-4c24-8929-afab4f288266
+        Path: /Front End Capstone/exercises/code_reviews.md
+        UID: c8f40dd8-353d-4074-886f-37fbf08d7059
       -
-        Type: Lesson
-        Path: /simple-localjs.md
-        UID: be126833-8232-4c24-8929-afab4f288266
-      -
-        Type: Lesson
-        Path: /markdown.md
-        UID: efa1fda0-80e8-4ef9-a184-24777ee0e2de
-      -
-        Type: Lesson
-        Path: /nested/markdown.md
-        UID: de434f42-892c-4210-a80c-17998d2b9be2       
-      -
-        Type: Resource
-        Path: /simple-resource.md
-        UID: 6598b232-abb9-4acb-baaf-5b60797d9f0e
       -
         Type: Checkpoint
         Path: /simple-checkpoint.md
