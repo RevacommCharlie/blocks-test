@@ -28,60 +28,58 @@ It is Right
 
 # !end-challenge
 
-OH BUT THAT'S NOT ALL
 
-# !challenge
+### !challenge
 
-* type: code-snippet
-* language: javascript
-* id: smoketest-challenge-12
-* title: return true
-* standard_uuids: W0018-V1
-* points: 4
+* type: checkbox
+* id: 64fb0189c2be2b2f402d12b6af9b66e5
+* title: Question -- deep-learning
+* partial_credit: true
+* points: 3
 
 ##### !question
 
-Write a function that returns true.
+Which of the following options can be used to reduce overfitting in deep-learning models?
+
 
 ##### !end-question
 
-##### !placeholder
+##### !options
 
-```js
-function returnTrue() {
-// return true
-}
-```
+*  Add more data
+*  Use data augmentation
+*  Use an architecture that generalizes well
+*  Add l1 or l2 penalty terms
+*  Reduce architectural complexity
 
-##### !end-placeholder
+##### !end-options
 
-##### !setup
-```js
-var expect = require('chai').expect;
-```
-##### !end-setup
+##### !answer
 
-##### !tests
+*  Add more data
+*  Use data augmentation
+*  Use an architecture that generalizes well
+*  Reduce architectural complexity
 
-```js
-describe('returnTrue', function() {
+##### !end-answer
 
-    it("returns true", function() {
-      expect(returnTrue()).to.deep.eq(true)
-    })
+### !end-challenge
 
-})
-```
-##### !end-tests
+# !challenge
 
-#### !explanation
+* type: paragraph
+* id: 10939811-3cac-4a38-9d41-32a771fc3796
+* title: Simple Paragraph
 
-I had to have this talk with you
-My happiness depends on you
-And whatever you decide to do
-Boolean
+##### !question
+Describe the Correct
+##### !end-question
 
-#### !end-explanation
+##### !hint
+##### !end-hint
+
+##### !explanation
+It is Correct
+##### !end-explanation
 
 # !end-challenge
-
