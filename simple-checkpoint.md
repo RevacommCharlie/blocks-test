@@ -67,25 +67,6 @@ Which of the following options can be used to reduce overfitting in deep-learnin
 
 # !challenge
 
-* type: paragraph
-* id: 10939811-3cac-4a38-9d41-32a771fc3796
-* title: Simple Paragraph
-
-##### !question
-Describe the Correct
-##### !end-question
-
-##### !hint
-##### !end-hint
-
-##### !explanation
-It is Correct
-##### !end-explanation
-
-# !end-challenge
-
-# !challenge
-
 * type: code-snippet
 * language: javascript
 * id: smoketest-challenge-12
