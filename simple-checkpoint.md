@@ -35,6 +35,40 @@ first placeholder
 
 ### !end-challenge
 
+### !challenge
+
+<!--comment in challenge-->
+
+* type: short-answer
+* id: e138b0a3-2600-453a-8em0-b6dcfazzzadc
+* title: second no touchy challenge
+
+##### !question
+
+<!--comment in challenge question-->
+
+first challenge
+
+##### !end-question
+
+##### !answer
+
+no touchy
+
+##### !end-answer
+
+##### !placeholder
+
+first placeholder
+
+##### !end-placeholder
+
+##### !explanation
+
+##### !end-explanation
+
+### !end-challenge
+
 
 # !challenge
 
