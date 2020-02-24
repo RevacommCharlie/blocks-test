@@ -1,6 +1,41 @@
 Modify A Checkpoint
 Peter piper packed a pack of swishers and a lighter
 
+### !challenge
+
+<!--comment in challenge-->
+
+* type: short-answer
+* id: e027c123-2660-453a-8ec0-b6dcfa8f8bba
+* title: first challenge
+
+##### !question
+
+<!--comment in challenge question-->
+
+first challenge
+
+##### !end-question
+
+##### !answer
+
+/first/i
+
+##### !end-answer
+
+##### !placeholder
+
+first placeholder
+
+##### !end-placeholder
+
+##### !explanation
+
+##### !end-explanation
+
+### !end-challenge
+
+
 # !challenge
 
 * type: multiple-choice
