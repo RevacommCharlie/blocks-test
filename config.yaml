@@ -9,6 +9,10 @@ Standards:
       - Bar
     ContentFiles:
       -
+        Type: Lesson
+        Path: /simple-challenge.md
+        UID: a6ed8939-d115-4c0a-ade2-c9a679744eec
+      -
         Type: Checkpoint
         Path: /simple-checkpoint.md
         Autoscore: true
