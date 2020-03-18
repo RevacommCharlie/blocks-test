@@ -17,5 +17,5 @@ Standards:
         Path: /simple-checkpoint.md
         Autoscore: true
         TimeLimit: 1
-        MaxCheckpointSubmissions: 2
+        MaxCheckpointSubmissions: 10
         UID: 38005db5-da5c-495f-af9a-6dc7a8ce98aa
