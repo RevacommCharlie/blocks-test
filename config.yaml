@@ -13,6 +13,10 @@ Standards:
         Path: /simple-challenge.md
         UID: a6ed8939-d115-4c0a-ade2-c9a679744eec
       -
+        Type: Lesson
+        Path: /content-only.md
+        UID: 290548D8-4959-428C-9AE1-8BA4724D433E
+      -
         Type: Checkpoint
         Path: /simple-checkpoint.md
         Autoscore: true
