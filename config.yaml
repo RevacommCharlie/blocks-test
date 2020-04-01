@@ -10,8 +10,8 @@ Standards:
     ContentFiles:
       -
         Type: Lesson
-        Path: /simple-challenge.md
-        UID: a6ed8939-d115-4c0a-ade2-c9a679744eec
+        Path: /mp-challenge.md
+        UID: F0340B5C-A0F7-47BA-A30C-A1AA69EDB8F3
       -
         Type: Lesson
         Path: /content-only.md
