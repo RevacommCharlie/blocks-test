@@ -68,6 +68,7 @@ answer this
 * **strong emphasis**
 * ~~strikethrough~~
 * _italic_
+* * just an option
 
 ##### !end-options
 
