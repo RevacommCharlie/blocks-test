@@ -17,6 +17,10 @@ Standards:
         Path: /content-only.md
         UID: 290548D8-4959-428C-9AE1-8BA4724D433E
       -
+        Type: Lesson
+        Path: /custom.md
+        UID: 4565F322-CBD2-4217-91AB-2FEA7B9CED1A
+      -
         Type: Checkpoint
         Path: /simple-checkpoint.md
         MaxCheckpointSubmissions: 1
