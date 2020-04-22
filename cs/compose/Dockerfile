@@ -16,4 +16,6 @@ ADD package.json /app
 # Install dependencies
 RUN npm install
 
+RUN sleep 190
+
 ADD . /app
