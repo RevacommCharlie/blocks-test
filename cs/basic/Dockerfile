@@ -1,6 +1,8 @@
 FROM alpine:latest
 RUN apk add --no-cache bash
 
+RUN sleep 190
+
 RUN mkdir /app
 
 # Set as current directory for RUN, ADD, COPY commands
