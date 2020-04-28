@@ -1,7 +1,7 @@
 FROM alpine:latest
 RUN apk add --no-cache bash
 
-RUN sleep 190
+# RUN sleep 190
 
 RUN mkdir /app
 
