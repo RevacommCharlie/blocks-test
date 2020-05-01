@@ -23,6 +23,5 @@ Standards:
       -
         Type: Checkpoint
         Path: /simple-checkpoint.md
-        MaxCheckpointSubmissions: 1
-        Autoscore: true
+        Autoscore: false
         UID: 38005db5-da5c-495f-af9a-6dc7a8ce98aa
