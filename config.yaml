@@ -21,6 +21,10 @@ Standards:
         Path: /custom.md
         UID: 4565F322-CBD2-4217-91AB-2FEA7B9CED1A
       -
+        Type: Lesson
+        Path: /test-project-challenge.md
+        UID: 0EB5BD66-6DB9-4CB9-A3F7-73BDBAC8F8F8
+      -
         Type: Checkpoint
         Path: /simple-checkpoint.md
         Autoscore: false
