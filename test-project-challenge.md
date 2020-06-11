@@ -11,9 +11,9 @@
 * type: testable-project
 * id: CBEAE2A4-D0FC-4078-9AF0-46BEC3F9B3DB
 * title: Go testable project
-* upstream: https://github.com/gSchool/test-testable-project
+<!-- * upstream: https://github.com/gSchool/test-testable-project -->
 <!-- * upstream: https://gitlab.com/Torik17/test-testable-project -->
-<!-- * upstream: https://gitlab.galvanize.com/galvanize_dev/testable-block -->
+* upstream: https://gitlab.galvanize.com/galvanize_dev/testable-block
 * validate_fork: false
 
 <!--'question' is required, markdown, the question to be answered-->
