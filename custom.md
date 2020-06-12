@@ -3,7 +3,7 @@
 ### !challenge
 * type: custom-snippet
 * language: html
-* id: 
+* id: 3BBD4B20-03F4-46F0-936E-0A92AF77855D
 * title: Simple
 * docker_directory_path: /cs/basic
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->

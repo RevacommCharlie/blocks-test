@@ -6,7 +6,7 @@ broken [thing 2](./simple-broken.md)
 # !challenge
 
 * type: paragraph
-* id: e20bc2df-f49d-4619-b29d-e8e07ffaf07c
+* id: 
 * title: Simple Paragraph
 
 ##### !question
