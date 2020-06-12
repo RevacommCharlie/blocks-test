@@ -25,8 +25,3 @@ Standards:
         Path: /simple-checkpoint.md
         Autoscore: false
         UID: 38005db5-da5c-495f-af9a-6dc7a8ce98aa
-      -
-        Type: Lesson
-        Path: /test-project-challenge.md
-        UID: F0340B5C-A0F7-47BA-A30R-A1A169EDB8F3
-
