@@ -1,69 +1,58 @@
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 <!-- Replace everything in square brackets [] and remove brackets  -->
+
 ### !challenge
+
 * type: custom-snippet
-* language: html
-* id: 3BBD4B20-03F4-46F0-936E-0A92AF77855D
-* title: Simple
-* docker_directory_path: /cs/basic
+* language: java
+* id: 0af0f601-7863-4eb5-8d4c-2488607abf0d
+* title: C++
+* docker_directory_path: /04-examples/custom-snippets/cpp
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
 ##### !question
 
-Write some code
+Given a year, report if it is a leap year.
+
+A leap year occurs:
+
+> on every year that is evenly divisible by 4
+  except every year that is evenly divisible by 100
+  unless the year is also evenly divisible by 400
+
+Leap years
+* 1996
+* 2000
+
+Not leap years
+* 1997
+* 1900
 
 ##### !end-question
+
 ##### !placeholder
+
+```java
+#include "leap.h"
+
+namespace leap {
+	bool is_leap_year(int year)
+	{
+    return 1 == 1
+    // return (year % 4 == 0 && year % 100 != 0) || year % 400 == 0;
+	}
+}  // namespace leap
 ```
-function work() {
-}
-```
+
 ##### !end-placeholder
+
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, users can see after a failed attempt) -->
 <!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
 <!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
 ### !end-challenge
+
 <!-- ======================= END CHALLENGE ======================= -->
 
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
-### !challenge
-* type: custom-snippet
-* language: javascript
-* id: 034d1a6b-a3e9-4a90-be46-bdfd8937229f
-* title: Compose
-* docker_directory_path: /cs/compose
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
-##### !question
-[markdown, your question]
-##### !end-question
-##### !placeholder
-const passport = require('passport');
-const knex = require('../db/connection');
-
-module.exports = () => {
-
-  /*
-    Write your code here
-  */
-
-  passport.serializeUser((user, done) => {
-    done(null, user.id);
-  });
-
-  passport.deserializeUser((id, done) => {
-    knex('users').where({id}).first()
-    .then((user) => { done(null, user); })
-    .catch((err) => { done(err, null); });
-  });
-
-};
-##### !end-placeholder
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, users can see after a failed attempt) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
-### !end-challenge
-<!-- ======================= END CHALLENGE ======================= -->

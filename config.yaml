@@ -10,16 +10,12 @@ Standards:
     ContentFiles:
       -
         Type: Lesson
-        Path: /mp-challenge.md
-        UID: F0340B5C-A0F7-47BA-A30C-A1AA69EDB8F3
-      -
-        Type: Lesson
         Path: /content-only.md
         UID: 290548D8-4959-428C-9AE1-8BA4724D433E
       -
         Type: Lesson
-        Path: /simple-challenge.md
-        UID: 4565F322-CBD2-4217-91AB-2FEA7B9CED1A
+        Path: /test-project-challenge.md
+        UID: 4765F322-CBD2-4217-91AB-2FEA7B9CED1A
       -
         Type: Checkpoint
         Path: /simple-checkpoint.md
