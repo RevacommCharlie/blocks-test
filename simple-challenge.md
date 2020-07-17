@@ -1,51 +1,39 @@
-celpful [resource](./simple-resource.md)
-broken [thing](./simple-broken.md)
-broken [thing 2](./simple-broken.md)
-* [linked resource](/simple-resource.md) with a leading '/'
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
 
-# !challenge
+### !challenge
 
-* type: paragraph
-* id: 
-* title: Simple Paragraph
+* type: multiple-choice
+* id: dfff2130-9ee9-4fe2-acff-6cb564f50a08
+* title: Bullet Test
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
-Describe the Correct
+
+[markdown, your question]
+
 ##### !end-question
 
-##### !hint
-##### !end-hint
+##### !options
 
-##### !explanation
-It is Correct
-##### !end-explanation
+* [Option 1]
+* [Option 2]
+* [Option 3, etc]
 
-# !end-challenge
+##### !end-options
 
-### !callout-info
-## Info
-This information is the most important thing to read on the page why did you read any of the other words?
-### !end-callout
+##### !answer
 
-### !callout-warning
-## Warning
-# test
-### test
-Warnings don't really mean much when you know Danger is still an option.
-### !end-callout
+* [Option 2]
 
-### !callout-danger
-## Danger!
-Be careful, a PM might ask you to rewrite everything, but you can probably do that in Go.
-### !end-callout
+##### !end-answer
 
-### !callout-success
-## Success
-I guess you think this is winning?
-### !end-callout
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, users can see after a failed attempt) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
-### !callout-secondary
-## Secondary
-This all gray thing is so cool it's like Jony Ive designed it or something.
-### !end-callout
+### !end-challenge
 
+<!-- ======================= END CHALLENGE ======================= -->
