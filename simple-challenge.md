@@ -24,8 +24,7 @@ Which line of code is considered *safe* when querying from a database in python?
 
 ##### !answer
 
- * `cur.execute("SELECT * FROM logins WHERE userid = %(userid)s;", {'userid': userid})`
-
+* `cur.execute("SELECT * FROM logins WHERE userid = %(userid)s;", {'userid': userid})`
 
 ##### !end-answer
 
