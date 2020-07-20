@@ -17,15 +17,15 @@
 
 ##### !options
 
-* [Option 1]
-* [Option 2]
-* [Option 3, etc]
+* `[Option 1]`
+* `[Option 2]`
+* `[Option 3, etc]`
 
 ##### !end-options
 
 ##### !answer
 
-* [Option 2]
+* `[Option 2]`
 
 ##### !end-answer
 
