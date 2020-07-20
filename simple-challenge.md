@@ -1,39 +1,39 @@
-<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
-<!-- Replace everything in square brackets [] and remove brackets  -->
 
 ### !challenge
 
 * type: multiple-choice
-* id: dfff2130-9ee9-4fe2-acff-6cb564f50a08
-* title: Bullet Test
-<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
-<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+* id: e567837c-cce1-4723-8d86-dc175de819d3
+* title: Question 4
+* topics: coding
 
 ##### !question
 
-[markdown, your question]
+Which line of code is considered *safe* when querying from a database in python?
 
 ##### !end-question
 
 ##### !options
 
-* `[Option 1]`
-* `[Option 2]`
-* `[Option 3, etc]`
+
+* `cur.execute("SELECT * FROM logins WHERE userid = %(userid)s;", {'userid': userid})`
+* `cur.execute("SELECT * FROM logins WHERE userid = '{}'".format(userid));`
+* `cur.execute("SELECT * FROM logins WHERE userid = '{userid}'");`
+* `cur.execute("SELECT * FROM logins WHERE userid = '%s' % userid";`
 
 ##### !end-options
 
 ##### !answer
 
-* `[Option 2]`
+ * `cur.execute("SELECT * FROM logins WHERE userid = %(userid)s;", {'userid': userid})`
+
 
 ##### !end-answer
-
-<!-- other optional sections -->
-<!-- !hint - !end-hint (markdown, users can see after a failed attempt) -->
-<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
-<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
 
 ### !end-challenge
 
 <!-- ======================= END CHALLENGE ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+
