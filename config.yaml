@@ -10,14 +10,5 @@ Standards:
     ContentFiles:
       -
         Type: Lesson
-        Path: /content-only.md
-        UID: 290548D8-4959-428C-9AE1-8BA4724D433E
-      -
-        Type: Lesson
         Path: /simple-challenge.md
         UID: 4765F322-CBD2-4217-91AB-2FEA7B9CED1A
-      -
-        Type: Checkpoint
-        Path: /simple-checkpoint.md
-        Autoscore: false
-        UID: 38005db5-da5c-495f-af9a-6dc7a8ce98aa
