@@ -10,5 +10,9 @@ Standards:
     ContentFiles:
       -
         Type: Lesson
-        Path: /simple-challenge.md
+        Path: /dot.nested/simple-challenge.md
         UID: 4765F322-CBD2-4217-91AB-2FEA7B9CED1A
+      -
+        Type: Lesson
+        Path: /markdown.md
+        UID: 7BDFAC86-AA16-4F36-99E8-01E7AF97AF79
