@@ -4,45 +4,25 @@
 ### !challenge
 
 * type: custom-snippet
-* language: java
-* id: 0af0f601-7863-4eb5-8d4c-2488607abf0d
-* title: C++
-* docker_directory_path: /04-examples/custom-snippets/cpp
+* language: [text, one of: csharp, html, java, javascript, json, markdown, python, or sql]
+* id: d0668c87-4bfc-4819-9e23-23d4e3c6254f
+* title: [text, a short question title]
+* docker_directory_path: /custom
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-Given a year, report if it is a leap year.
-
-A leap year occurs:
-
-> on every year that is evenly divisible by 4
-  except every year that is evenly divisible by 100
-  unless the year is also evenly divisible by 400
-
-Leap years
-* 1996
-* 2000
-
-Not leap years
-* 1997
-* 1900
+[markdown, your question]
 
 ##### !end-question
 
 ##### !placeholder
 
-```java
-#include "leap.h"
-
-namespace leap {
-	bool is_leap_year(int year)
-	{
-    return 1 == 1
-    // return (year % 4 == 0 && year % 100 != 0) || year % 400 == 0;
-	}
-}  // namespace leap
+[the code below is the starting code in the web editor]
+```
+function doSomething() {
+}
 ```
 
 ##### !end-placeholder
@@ -55,4 +35,3 @@ namespace leap {
 ### !end-challenge
 
 <!-- ======================= END CHALLENGE ======================= -->
-
