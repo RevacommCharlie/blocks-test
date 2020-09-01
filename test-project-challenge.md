@@ -13,7 +13,7 @@
 * title: Go testable project
 <!-- * upstream: https://github.com/gSchool/test-testable-project -->
 <!-- * upstream: https://gitlab.com/Torik17/test-testable-project -->
-* upstream: https://gitlab.com/Torik17/test-testable-project/-/tree/master/
+* upstream: https://gitlab.com/Torik17/test-testable-project
 * validate_fork: false
 
 <!--'question' is required, markdown, the question to be answered-->
