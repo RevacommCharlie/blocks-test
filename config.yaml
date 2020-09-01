@@ -10,5 +10,5 @@ Standards:
     ContentFiles:
       -
         Type: Lesson
-        Path: /custom.md
+        Path: /test-project-challenge.md
         UID: 409C1901-7AA2-47E9-9012-A3BB057115C4
