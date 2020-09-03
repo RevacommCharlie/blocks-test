@@ -9,6 +9,6 @@ Standards:
       - Bar
     ContentFiles:
       -
-        Type: Lesson
-        Path: /test-project-challenge.md
+        Type: Survey
+        Path: /mp-challenge.md
         UID: 409C1901-7AA2-47E9-9012-A3BB057115C4
