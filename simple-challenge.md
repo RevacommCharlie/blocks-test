@@ -83,7 +83,7 @@ Which line of code is considered *safe* when querying from a database in python?
 * type: number
 * id: 5689796e-ea38-413a-9ff7-3c3751ec8ac1
 * title: meaning of life
-* decimal: [optional number, decimal points to user for answer evaluation]
+* decimal: 0
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
