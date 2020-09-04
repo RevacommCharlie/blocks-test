@@ -10,5 +10,5 @@ Standards:
     ContentFiles:
       -
         Type: Survey
-        Path: /mp-challenge.md
+        Path: /simple-challenge.md
         UID: 409C1901-7AA2-47E9-9012-A3BB057115C4
